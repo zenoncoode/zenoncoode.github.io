@@ -1,0 +1,9 @@
+{
+    "Settings": 
+        [{"name":"desativaStopStart",
+        "state" : "false"}, 
+        {"name":"desativaVidroEletrico",
+        "state" : "false"}]
+
+
+}
